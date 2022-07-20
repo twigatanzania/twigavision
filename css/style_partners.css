@@ -151,6 +151,11 @@
     .partner__paragraph--vivatanzania {
         background-color: rgba(13, 158, 0, 0.884);
     }
+
+    .partner__paragraph--siretvolunteers {
+        background-color: rgb(15, 29, 92);
+        color: white;
+    }
 }
 
 
@@ -201,6 +206,11 @@
         text-align:justify;
         padding: 32px;
     }
+
+    .partner__paragraph--siretvolunteers {
+        background-color: rgb(15, 29, 92);
+        color: white;
+    }
 }
 
 /*2K-3K*/
@@ -248,6 +258,11 @@
         text-align:justify;
         padding: 32px;
     }
+
+    .partner__paragraph--siretvolunteers {
+        background-color: rgb(15, 29, 92);
+        color: white;
+    }
 }
 
 /*4K*/
@@ -294,5 +309,10 @@
         line-height: 68px;
         text-align:justify;
         padding: 32px;
+    }
+
+    .partner__paragraph--siretvolunteers {
+        background-color: rgb(15, 29, 92);
+        color: white;
     }
 }
